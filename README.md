@@ -1,4 +1,4 @@
-# data_structures
+# data structures
 <table>
   <tr>
     <th>ID</th>
