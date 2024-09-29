@@ -1,0 +1,15 @@
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\bin\Debug\net8.0\DataStructuresWithCCharp_Stack.exe
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\bin\Debug\net8.0\DataStructuresWithCCharp_Stack.deps.json
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\bin\Debug\net8.0\DataStructuresWithCCharp_Stack.runtimeconfig.json
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\bin\Debug\net8.0\DataStructuresWithCCharp_Stack.dll
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\bin\Debug\net8.0\DataStructuresWithCCharp_Stack.pdb
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.AssemblyInfoInputs.cache
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.AssemblyInfo.cs
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.csproj.CoreCompileInputs.cache
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.sourcelink.json
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.dll
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\refint\DataStructuresWithCCharp_Stack.dll
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.pdb
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\DataStructuresWithCCharp_Stack.genruntimeconfig.cache
+E:\C#\data_structures\DataStructuresWithCCharp\DataStructuresWithCCharp_Stack\obj\Debug\net8.0\ref\DataStructuresWithCCharp_Stack.dll

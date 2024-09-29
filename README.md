@@ -1,4 +1,5 @@
 # data structures
+
 <table>
   <tr>
     <th>ID</th>
@@ -10,7 +11,7 @@
     <td>1</td>
     <td>Stack with array c#</td>
     <td>29/9/2024 : 5:30 PM</td>
-    <td>not end</td>
+    <td>29/9/2024 : 9:55 PM</td>
   </tr>
 </table>
 <br>
